@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const Xylophone());
-}
+import 'home_screen.dart';
 
-class Xylophone extends StatelessWidget {
-  const Xylophone({super.key});
+void main() => runApp(BmiCalculation());
 
+class BmiCalculation extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp();
+    return MaterialApp(
+      home: HomeScreen(),
+    );
   }
 }
