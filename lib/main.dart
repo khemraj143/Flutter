@@ -1,17 +1,14 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(Dicee());
+void main() {
+  runApp(const Xylophone());
 }
-class Dicee extends StatelessWidget {
-  const Dicee({super.key});
+
+class Xylophone extends StatelessWidget {
+  const Xylophone({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-
-    );
+    return const MaterialApp();
   }
 }
-
