@@ -8,12 +8,12 @@ Each app is developed and maintained in its own **dedicated branch**. The `main`
 
 ## 📌 Apps Included
 
-| App Name          | Branch Name      | Description                          | Status         |
-|-------------------|------------------|--------------------------------------|----------------|
-| 🎲 Dice App       | `Dice`           | A simple dice roller app using Flutter animation and gesture detection. | ✅ Completed     |
-| 🎵 Xylophone App  | `Xylophone`      | A musical app to play different notes using touch interactions.         | ✅ Completed     |
-| 📊 BMI Calculator | `BMI Calculator` | Calculates BMI based on height and weight input, with UI feedback.      | 🔧 In Progress  |
-| ➕ More coming... | _TBD_            | Stay tuned for additional Flutter mini projects!                        | 🚧 Planned      |
+| App Name          | Branch Name      | Description                                                             | Status         |
+|-------------------|------------------|-------------------------------------------------------------------------|----------------|
+| 🎲 Dice App       | `Dice`           | A simple dice roller app using Flutter animation and gesture detection. | ✅ Completed   |
+| 🎵 Xylophone App  | `Xylophone`      | A musical app to play different notes using touch interactions.         | ✅ Completed   |
+| 📊 BMI Calculator | `BMI Calculator` | Calculates BMI based on height and weight input, with UI feedback.      | ✅ Completed   |
+| ➕ More coming... | _TBD_            | Stay tuned for additional Flutter mini projects!                        | 🔧 In Progress |
 
 ---
 
